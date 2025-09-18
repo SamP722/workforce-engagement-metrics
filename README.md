@@ -20,13 +20,12 @@ The repo is structured so each section can stand alone but also builds into a fu
 4. `04_engagement_adkar.ipynb` — ADKAR averages, adoption trends, intent-to-leave.
 5. `05_customer_impact.ipynb` — CSAT vs understaffing, simple hypothesis test.
 
-## Data (synthetic)
+## Data (cleaned)
 Sample CSVs live in `./data/`:
 - `employees.csv`, `schedule.csv`, `demand_forecast.csv`
 - `survey.csv` (ADKAR + eNPS + intent_to_leave)
 - `csat.csv`
 
-> Replace with your own data as needed. The notebooks assume `./data` paths by default.
 
 ## How to run
 ```bash
